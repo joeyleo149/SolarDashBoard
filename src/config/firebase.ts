@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider } from 'firebase/auth'
 import { getFirestore } from 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCnXx-ttrGKQhb-GxWp43orIFV2mLhvvXE",
+  apiKey: "REMOVED FOR SECURITY PURPOSES",
   authDomain: "solar-dashboard-71401.firebaseapp.com",
   projectId: "solar-dashboard-71401",
   storageBucket: "solar-dashboard-71401.firebasestorage.app",
